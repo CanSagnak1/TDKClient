@@ -1,4 +1,4 @@
-# TDKAPI
+# TDKClient
 
 **Türk Dil Kurumu (TDK) Sözlükleri için Swift Package Manager (SPM) Kütüphanesi**
 
@@ -38,7 +38,7 @@ TDK'nın resmi sozluk.gov.tr API'sine erişim sağlayan, modern Swift Concurrenc
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/TDKAPI.git", from: "1.0.0")
+    .package(url: "https://github.com/CanSagnak1/TDKAPI.git", from: "1.0.0")
 ]
 ```
 
@@ -499,7 +499,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **Celal Can Sagnak**
 
-- GitHub: [@cansagnak](https://github.com/cansagnak)
+- GitHub: [@cansagnak](https://github.com/cansagnak1)
 
 ---
 
